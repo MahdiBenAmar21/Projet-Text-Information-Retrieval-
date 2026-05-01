@@ -1,0 +1,433 @@
+.I 1
+.T
+Author Cocitation:  A Literature Measure of Intellectual Structure
+.A
+White, H.D.
+Griffith, B.C.
+.W
+    It is shown that the mapping of a particular area of science, in this
+case information science, can be done using authors as units of analysis and
+the cocitations of pairs of authors as the variable that indicates their
+"distances" from each other.  The analysis assumes that the more two authors
+are cited together, the closer the relationship between them.  The raw data
+are cocitation counts drawn online from Social Scisearch (Social Sciences
+Citation Index) over the period 1972-1979.  GThe resulting map shows
+(1) identifiable author groups (akin to "schools") of information science,
+(2) locations of these groups with respect to each other, (3) the degree of
+centrality and peripherality of authors within groups, (4) proximities of
+authors within group and across group boundaries ("border authors" who seem
+to connect various areas of research), and (5) positions of authors with
+respect to the map's axes, which were arbitrarily set spanning the most
+divergent groups in order to aid interpretation.  Cocitation analysis of
+authors offers a new technique that might contribute to the understanding of
+intellectual structure in the sciences and possibly in other areas to the
+extent that those areas rely on serial publications.  The technique
+establishes authors, as well as documents, as an effective unit in
+analyzing subject specialties.
+.B
+(JASIS, Vol. 32, No. 3, May 1981, pp. 163-171)
+
+.I 2
+.W
+The average student or researcher has difficulty in comprehending the
+vocabulary of information retrieval.  It appears important that this
+new field be understood before it is to be fully accepted.  What basic
+articles would provide an understanding of the various important aspects
+of the information storage and retrieval?
+
+.I 3
+.T
+A General Formulation of Bradford's Distribution:  The Graph-Oriented
+Approach
+.A
+Asai, I.
+.W
+    From the detailed analysis of eight previously published mathematical
+models, a general formulation of Bradford's distribution can be deduced as
+follows:  y = a log(x + c) + b, where y is the ratio of the cumulative
+frequency of articles to the total number of articles and x is the ratio
+of the rank of journals to the total number of journals.  The parameters a, b,
+and c are the slope, the intercept, and the shift in a straight line to log rank,
+respectively.  Each of the eight models is a special case of the general
+formulation and is one of five types of formulation.  In order to estimate
+three unknown parameters, a statistical method using root-weighted square
+error is proposed.  A comparative experiment using 11 databases suggests that
+the fifth type of formulation with three unknown parameters is the best fit
+to the observed data.  A further experiment shows that the deletion of the
+droop data leads to a more accurate value of parameters and less error.
+.B
+(JASIS, Vol. 32, No. 2, March 1981, pp. 113-121)
+
+.I 4
+.W
+What special training will ordinary researchers and businessmen need for proper
+information management and unobstructed use of information retrieval systems?
+What problems are they likely to encounter?
+.I 5
+.T
+Answer-Passage Retrieval by Text Searching
+.A
+O'Connor, J.
+.W
+    Passage retrieval (already operational for lawyers) has advantages in
+output form opver references retrieval and is economically feasible.
+Previous experiments in passage retrieval for scientists have demonstrated
+recall and false retrieval rates as good or better than those of present
+reference retrieval services.  The present experiment involved a greater
+variety of forms of retrieval question.  In addition, search words were
+selected independently by two different people for each retrieval question.
+The search words selected, in combination with the computer procedures used
+for passage retrieval, produced average recall ratios of 72 and 67%,
+respectively, for the two selectors.  The false retrieval rates were (except
+for one predictably difficult question) respectively 13 and 10 falsely
+retrieved sentences per answer-paper retrieved.
+.B
+(JASIS, Vol. 31, No. 4, July 1980, pp. 227-239)
+
+.I 6
+.T
+Natural Language Access to Information Systems.  An Evaluation Study
+of Its Acceptance by End Users
+.A
+Krause, J.
+.W
+    The question is asked whether it is feasible to use subsets of
+natural languages as query languages for data bases in actual applications
+using the question answering system "USER SPECIALTY LANGUAGES" (USL).
+Methods of evaluating a natural language based information system will
+be discussed.  The results (error and language structure evaluation)
+suggest how to form the general architecture of application systems which
+use a subset of German as query language.
+.B
+(Inform. Systems, Vol. 5, No. 4, May 1980, pp. 297-318)
+
+.I 7
+.T
+Indexing Consistency, Quality and Efficiency
+.A
+Rolling, L.
+.W
+    Indexing quality determines whether the information content of an indexed
+document is accurately represented.  Indexing effectiveness measures whether
+an indexed document is correctly retrieved every time it is relevant to a
+query.  Measurement of these criteria is cumbersome and costly; data base
+producers therefore prefer inter-indexer consistency as a measure of indexing
+quality or effectiveness.  The present article assesses the validity of this
+substitution in various environments.
+.B
+(Information Processing & Management, Vol. 17, No. 2, 1981, pp. 69-76)
+
+.I 8
+.W
+Is there any established means at present for an international exchange
+of material about information retrieval?  If there is, does it take
+the form of an international agency or center which regularly
+distributes information retrieval methods and research results?  If
+there is not, in what ways has this material crossed national
+boundaries?  What seem to have been some of the problems blocking a
+better international exchange, and is any effort being made to solve
+some of those problems?
+
+.I 9
+.T
+User-Responsive Subject Control in Bibliographic Retrieval Systems
+.A
+Tague, J.M.
+.W
+    A study was carried out of the relationship between the vocabulary of
+user queries and the vocabulary of documents relevant to the queries, and
+the value of adding to the document description record in a retrieval system
+keywords from previous queries for which the document had proved useful.
+Two test databases incorporating user query keywords were implemented at
+the School of Library and Information Science, University of Western
+Ontario.  Clustering of the documents via title and user keywords, a
+statistical analysis of title-user keyword co-occurrences, and retrieval
+tests were used to examine the effect of the added keywords.  Results
+showed the impracticality of the procedure in an operational setting, but
+indicated the value of analyses with sample data in the development and
+maintenance of keyword dictionaries and thesauri.
+.B
+(Information Processing & Management, Vol. 17, No. 3, 1981, pp. 149-159)
+
+.I 10
+.W
+Methods of coding used in computerized index systems.
+.I 11
+.W
+What is the status of machine translation?  What progress has been
+made in the use of computers to transfer from one language to another
+with some degree of automation?  What problems and stumbling blocks
+have been found and are they considered to be insurmountable limitations
+or only challenging to the field of documentation on an international scale?
+
+.I 12
+.W
+Amount of use of books in libraries.
+Relation to need for automated information systems .
+.I 13
+.T
+Directions in Library Networking
+.A
+Avram, H.D.
+McCallum, S.H.
+.W
+    Bibliographic control before and after MARC is reviewed.  The capability
+of keying into online systems brought an interdependence among libraries,
+the service centers that mediate between them, and the large utilities that
+process and distribute data.  From this has developed the basic network
+structure among libraries in the United States.  The independent development
+of major networks has brought problems in standardization and coordination.
+The authors point out that while technology has led toward centralization
+of automated library services, new developments are now pushing toward
+decentralization.  Coordination is a requirement to avoid fragmentation in
+this new environment.
+.B
+(JASIS, Vol. 31, No. 6, November 1980, pp. 438-444)
+
+.I 14
+.W
+Automated information in the medical field.
+.I 15
+.T
+The Application of a Minicomputer to Thesaurus Construction
+.A
+Kazlauskas, E.J.
+Holt, T.D.
+.W
+    The Use of a minicomputer in various phases of creating the thesaurus
+for the National Information Center for Special Education Materials
+(NICSEM) database is described.  The minicomputer is used to collect,
+edit, and correct candidate thesaurus terms.  The use of the minicomputer
+eases the process of grouping terms into files of similar concepts and
+facilitates the generation of products useful in vocabulary review and in
+term structuring.  Syndetic relations, indicated by assigning coded
+identification numbers, are altered easily in the design phase to reflect
+restructuring requirements.  Because thesaurus terms are already in machine-
+readable form, it is simple to prepare print programs to provide permuted,
+alphabetic, hierarchical, and chart formatted term displays.  Overall, the
+use of the minicomputer facilitates initial thesaurus entry development by
+reducing clerical effort, editorial staff decisions, and overall processing
+times.
+.B
+(JASIS, Vol. 31, No. 5, September 1980, pp. 363-368)
+
+.I 16
+.T
+Fuzzy Requests:  An Approach to Weighted Boolean Searches
+.A
+Bookstein, A.
+.W
+    This article concerns the problem of how to permit a patron to
+represent the relative importance of various index terms in a Boolean
+request while retaining the desirable properties of a Boolean system.
+The character of classical Boolean systems is reviewed and related to the
+notion of fuzzy sets.  The fuzzy set concept then forms the basis of the
+concept of a fuzzy request in which weights are assigned to index terms.
+Ther properties of such a system are discussed, and it is shown that such
+systems retain the manipulability of traditional Boolean requests.
+.B
+(JASIS, Vol. 31, No. 4, July 1980, pp. 240-247)
+
+.I 17
+.T
+The Use of Automatic Relevance Feedback in Boolean Retrieval Systems
+.A
+Dillon, M.
+Desper, J.
+.W
+    A technique is described for automatic reformulation of boolean
+queries.  Based on patron relevance judgements of an initial retrieval,
+prevalence measures are derived for terms appearing in the retrieved set
+of documents that reflect a term's distribution among the relevant and
+non-relevant documents.  These measures are then used to guide the
+construction of a boolean query for a subsequent retrieval.  To illustrate
+the technique, a series of tests is described of its application to a small
+data base in an experimental environment.  Results compare favourably with
+feedback as employed in a SMART-type system.  MOre extensive testing is
+suggested to validate the technique.
+.B
+(Journal of Documentation, Vol. 36, No. 3, September 1980, pp. 197-208)
+
+.I 18
+.T
+Library Networks and Resource Sharing in the United States:
+An Historical and Philosophical Overview
+.A
+Stevens, N.D.
+.W
+    This paper discusses the origins of library networks and traces their
+development in the United States in the late 1960s through the present.
+The concept of resource sharing, with particular attention to the inter-
+library loan and programs for the cooperative acquisition and storage of
+materials, is examined in relationship to library networks.  In particular,
+attention is given to the question of how these two major components of
+library cooperation, which have tended to be separate, might become more
+closely integrated.
+.B
+(JASIS, Vol. 31, No. 6, November 1980, pp. 405-412)
+
+.I 19
+.W
+Most resources have been spent on applying information retrieval
+techniques to the physical and medical sciences.  But, has information
+retrieval been used at all in the natural sciences, social sciences,
+and humanities?  If so, what have been some of the problems which have
+been encountered with these subject areas and how have they been
+solved, if at all?  Have the characteristics of these subject areas
+necessitated the development of new information retrieval techniques?
+What are the prospcts for future machine control in these areas?
+
+.I 20
+.T
+The Technology of Library and Information Networks
+.A
+Epstein, H.
+.W
+    Current online library network technology is described, including the
+physical and functional aspects of networks.  Three types of networks are
+distinguished:  search service (e.g., SDC, Lockheed), customized service
+that provide bibliographic files (e.g., OCLC, Inc., RLIN), and service
+center (e.g., NELINET, INCOLSA).  It is predicted that as technology
+evolves more services will be provided outside the library directly to the
+user through his home or office.
+.B
+(JASIS, Vol. 31, No. 6, November 1980, pp. 425-437)
+
+.I 21
+.T
+A Translating Computer Interface for End-User Operation of
+Heterogeneous Retrieval Systems.  II. Evaluations
+.A
+Marcus, R.S.
+Reintjes, J.F.
+.W
+    The evaluation of the concept of a translating compuyter interface for
+simplifying operation of multiple, heterogenous online bibliographic
+retrieval systems has been undertaken.  An experimental retrieval system,
+named CONIT, was built and tested under controlled conditions with
+inexperienced end users.  A detailed analysis of the experimental usages
+showed that users were able to master interface operation sufficiently well
+to find relevant document references.  Success was attributed, in part,
+to a simple command language, adequate online instruction, and a simplified
+natural-language, keyword/stem approach to searching.  It is concluded that
+operational interfaces of the type studied can provide for increased usability
+of existing system in a cost effective manner, especially for searchers.
+Furthermore, more advanced interfaces based on improved instruction and
+automated search strategy techniques could further enhance retrieval
+effectiveness for a wide class of users.
+.B
+(JASIS, Vol. 32, No. 4, July 1981, pp. 304-317)
+
+.I 22
+.T
+Database and Online Statistics for 1979
+.A
+Williams M.E.
+.W
+    The number of databases, records contained in databases and the online
+use of databases has increased dramatically over the past several years,
+bringing the 1979 totals for bibliographic, bioliographic-related, and
+natural language databases to 528.  These 528 databases contain 148 million
+records.  Some 4 million online searches were conducted via the major U.S.
+and Canadian systems in 1979.
+.B
+(Bulletin of ASIS, Vol. 7, No. 2, December 1980, pp. 27-29)
+
+.I 23
+.T
+Experiments in Local Metrical Feedback in Full-Text Retrieval Systems
+.A
+Attar, R.
+Fraenkel, A.S.
+.W
+    A method of iterative searching, using the results of one iteration search
+to formulate the next iteration search, was applied to a full-text database
+consisting of some 2400 documents and 1,3000,000 text-words of Hebrew and
+Aramaic.  The iterative method consists of clustering the documents returned
+in an iteration, using weighting by proximity and by frequency simultaneously.
+The process produces searchonyms, which are terms synonymous to keywords in the
+context of a single query.  Augumenting or replacing keywords by searchonyms
+via manual or automatic feedback leads to the formulation of the next iteration
+search.  The results of the experiment are consistent with those of an earlier
+small-scale experiment on an English database, and indicate that in contrast
+to global clustering where the size of matrices limits applications to small
+databases and improvements are doubtful, local metrical methods appear to be
+well suited to arbitrarily large databases, improving precision and recall
+simultaneously.  Further experiments using more test-queries run on even
+larger databases should be made to collect further evidence as to the
+performance of these methods.
+.B
+(Information Processing & Management, Vol. 17, No. 3, 1981, pp. 115-126)
+
+.I 24
+.T
+Normalization of Titles and Their Retrieval
+.A
+Takamatsu, S.
+Fujita, UY.
+Nishida, F.
+.W
+    This paper presents a method of normalizations of English titles and
+their retrieval.  The title expressed by a noun phrase or a noun clause
+is converted to a function-expression by parsing.  For the retrieval with
+a reasonable recall rate as well as a high precision rate, the function-
+expression is transformed to a predicate-governor form, and then normalized
+to a standard form.  Therefrom, various items are extracted and recorded
+in a hierarchical tree-like inverted file.
+
+    In order to keep the recall rate in a reasonable value, several
+retrieval stages are implemented based on the key-term and case-label
+matching.  The retrieval is controlled by the preciseness of the specification
+of case-labels for each key-term.
+.B
+(Info. Proc. & Management, Vol. 16, No. 3, 1980, pp. 155-167)
+
+.I 25
+.T
+The Measurement of Term Importance in Automatic Indexing
+.A
+Salton, G.
+Wu, H.
+Yu, C.T.
+.W
+    The frequency characteristics of terms in the documents of a collection
+have been used as indicators of term importance for content analysis and
+indexing purposes.  In particular, very rare or very frequent terms are
+normally believed to be less effective than medium-frequency terms.  Recently
+automatic indexing theories have been devised that use not only the term
+frequency characteristics but also the relevance properties of the terms.
+The major term-weighting theories are first briefly reviewed.  The term
+precision and term utility weights that are based on the occurrence
+characteristics of the terms in the relevant, as opposed to the nonrelevant,
+documents of a collection are then introduced.  Methods are suggested for
+estimating the relevance properties of the terms based on their overall
+occurrence characteristics in the collection.  Finally, experimental
+evaluation results are shown comparing the weighting systems using the term
+relevance properties with the more conventional frequency-based methodologies.
+.B
+(JASIS, Vol. 32, No. 3, May 1981, pp. 175-186)
+
+.I 26
+.W
+International systems for exchange and dissemination of information.
+.I 27
+.W
+What is the effect on librarians of automation?  Note the new types
+of technology to be used in the library which will have an effect on
+the status, position, and function of the librarians.  What changes
+are being contemplated or have been initiated to introduce automation
+into the education of librarians?
+
+.I 28
+.W
+Give methods for high speed publication, printing, and distribution of
+scientific journals.
+.I 29
+.W
+What possibilities are there for verbal communication between computers and
+humans, that is, communication via the spoken word?
+.I 30
+.W
+Describe presently working and planned systems for publishing and printing
+original papers by computer, and then saving the byproduct, articles coded in
+data-processing form, for further use in retrieval.
